@@ -94,7 +94,7 @@ class _VideoCaption extends StatelessWidget {
   final String caption;
 
 
-  const _VideoCaption({super.key, required this.caption});
+  const _VideoCaption({required this.caption});
 
   @override
   Widget build(BuildContext context) {
